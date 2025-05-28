@@ -12,7 +12,7 @@
   width: 600px;
   height: 300px;
   background-color: bluesky
-    
+    }
 </style>
 
 </head>
