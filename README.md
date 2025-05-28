@@ -5,7 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Pusat CCTV Batam</title>
 <style>
-  background-color: blackmaroon
+  body {
+    background-color: maroon;
+    }
+  div {
+  width: 600px;
+  height: 300px;
+  background-color: bluesky
+    
 </style>
 
 </head>
