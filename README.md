@@ -6,7 +6,7 @@
   <title>Pusat CCTV Batam</title>
 <style>
   body {
-    background-color: bluesky;
+    background-color: green;
     }
   div {
   width: 600px;
